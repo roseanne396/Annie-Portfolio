@@ -2,7 +2,7 @@
 My personal portfolio highlighting academic and professional projects in data science, machine learning, and AI-driven analytics.
 <h1>Hi, This is Annie! <br/><a href="https://github.com/joshmadakor1">Data Analyst / Data Scientist / Business Intelligence Engineer</a>, <a href="https://www.linkedin.com/in/yaning-fu/">
 
-<h2>👨‍💻 Data Science Projects (Dashboarding, Modelling, Insights):</h2>
+<h2>👨‍💻 Data Science Projects (Dashboarding, Modelling, Generative AI):</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
