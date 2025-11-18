@@ -5,9 +5,9 @@ My personal portfolio highlighting academic and professional projects in data sc
 <h2>👨‍💻 Data Science Projects (Dashboarding, Modelling, Generative AI):</h2>
 
 - <b>Capstone Project: Using LLM Healthcare Synergy Detection </b>
-  - [Using LLM + HyDE(RAG) + Streamlit APP]([https://github.com/roseanne396/Capstone---Healthlabs.git])
+  - [Using LLM + HyDE(RAG) + Streamlit APP](https://github.com/roseanne396/Capstone---Healthlabs.git)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Image Analysis Middleware](https://github.com/roseanne396/Capstone---Healthlabs.git) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
