@@ -4,8 +4,8 @@ My personal portfolio highlighting academic and professional projects in data sc
 
 <h2>👨‍💻 Data Science Projects (Dashboarding, Modelling, Generative AI):</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Capstone Project: Using LLM Healthcare Synergy Detection </b>
+  - [Using LLM + HyDE(RAG) + Streamlit APP]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/roseanne396/Capstone---Healthlabs.git))
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
